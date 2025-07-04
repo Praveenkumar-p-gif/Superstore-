@@ -28,7 +28,7 @@ This repository contains interactive Power BI dashboards that analyze sales data
 - **Category Overview**: Count of Sub-Categories, Profit and Quantity
 - **Segment-Level Sales**: Consumer, Corporate, Home Office
 
-![Region and State Level Analysis](./Region%20and%20State.png)
+![Region and State Level Analysis](main/Superstore/Region%20and%20State.png)
 
 ---
 
