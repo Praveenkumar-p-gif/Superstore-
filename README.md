@@ -81,7 +81,7 @@ This repository contains interactive Power BI dashboards that analyze sales data
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/sales-analysis-powerbi.git
+    git clone https://github.com/Praveenkumar-p-gif/sales-analysis-powerbi.git
     ```
 2. Open the `.pbix` files in Power BI Desktop.
 3. Interact with the dashboards using slicers and filters.
@@ -102,11 +102,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🌟 Show your support
 
-If you found this helpful, please ⭐️ the repo or share it with others!
-
-
-
-## 📂 Repository Structure
 
