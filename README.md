@@ -41,7 +41,7 @@ This repository contains interactive Power BI dashboards that analyze sales data
   - Sales, Quantity, and Profit by Sub-Category (Bubble Chart)
   - Time-Based Trends: Profit and Sales by Year and Quarter
 
-![Category and Sub-Category Level Analysis](./Category%20and%20Sub%20-%20Category.png)
+![Category and Sub-Category Level Analysis](https://github.com/Praveenkumar-p-gif/Superstore-/blob/main/Superstore/Category%20and%20Sub%20-%20Category.png)
 
 ---
 
