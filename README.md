@@ -14,7 +14,7 @@ This repository contains interactive Power BI dashboards that analyze sales data
 - **Segment Breakdown**: Profit and Sales by Consumer, Corporate, Home Office
 - **Category Breakdown**: Technology, Furniture, and Office Supplies
 
-![Sales Dashboard](./Sales%20dashboard.png)
+![Sales Dashboard](https://github.com/Praveenkumar-p-gif/Superstore-/blob/main/Superstore/Sales%20dashboard.png)
 
 ---
 
